@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Pixodesk SVG (https://pixodesk.com) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 327" text-rendering="geometricPrecision" shape-rendering="geometricPrecision">
+  <defs>
+    <text id="_px_svg_2j69ftpr" text-anchor="middle" font-family="Times,serif" font-size="10" font-weight="900" xml:space="preserve" transform="translate(798.4577, -206.9575)translate(-798.4577, 206.9575)" x="742.66" y="-209.4" data-gn-el-type="text" style="white-space:pre"><tspan>Step 4: Text Summarization</tspan></text>
+  </defs>
+  <g id="graph0" class="graph" transform="translate(0.8809, 5.0142)translate(4, 323)">
+    <path fill="#ffffff" stroke="none" d="M-4,4L-4,-323L1176.39,-323L1176.39,4L-4,4"/>
+    <g id="clust1" class="cluster">
+      <path fill="#d3d3d3" stroke="#d3d3d3" d="M8,-59L8,-145L223.46,-145L223.46,-59L8,-59"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="115.73" y="-128.4" data-gn-el-type="text" style="white-space:pre"><tspan>Step 1: User Interaction</tspan></text>
+    </g>
+    <g id="clust2" class="cluster">
+      <path fill="#add8e6" stroke="#add8e6" d="M329.02,-191L329.02,-268L520.01,-268L520.01,-191L329.02,-191"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="424.51" y="-251.4" data-gn-el-type="text" style="white-space:pre"><tspan>Step 2: Upload PDF Document</tspan></text>
+    </g>
+    <g id="clust3" class="cluster">
+      <path fill="#ffffe0" stroke="#ffffe0" d="M648.54,-234L648.54,-311L836.79,-311L836.79,-234L648.54,-234"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="742.66" y="-294.4" data-gn-el-type="text" style="white-space:pre"><tspan>Step 3: Extract Text from PDF</tspan></text>
+    </g>
+    <g id="clust4" class="cluster">
+      <path fill="#ffb6c1" stroke="#ffb6c1" d="M655.93,-149L655.93,-226L829.4,-226L829.4,-149L655.93,-149"/>
+    </g>
+    <g id="clust5" class="cluster">
+      <path fill="#e0ffff" stroke="#e0ffff" d="M994,-105L994,-190L1164.39,-190L1164.39,-105L994,-105"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="1079.2" y="-173.4" data-gn-el-type="text" style="white-space:pre"><tspan>Step 5: Store Data</tspan></text>
+    </g>
+    <g id="clust6" class="cluster">
+      <path fill="#90ee90" stroke="#90ee90" d="M337.99,-64L337.99,-141L841.8,-141L841.8,-64L337.99,-64"/>
+    </g>
+    <g id="clust7" class="cluster">
+      <path fill="#d3d3d3" stroke="#d3d3d3" d="M997.24,-8L997.24,-85L1162.16,-85L1162.16,-8L997.24,-8"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="1079.7" y="-68.4" data-gn-el-type="text" style="white-space:pre"><tspan>Step 7: Response Delivery</tspan></text>
+    </g>
+    <g id="node1" class="node">
+      <ellipse fill="#ffffff" stroke="#ffffff" cx="115.73" cy="-90" rx="99.73" ry="22.63"/>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="115.73" y="-93" data-gn-el-type="text" style="white-space:pre"><tspan>User</tspan></text>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="115.73" y="-81" data-gn-el-type="text" style="white-space:pre"><tspan>(Web Browser / Mobile App)</tspan></text>
+    </g>
+    <g id="node2" class="node">
+      <path fill="none" stroke="#000000" d="M471.98,-235L376.05,-235C370.05,-235,364.05,-229,364.05,-223L364.05,-211C364.05,-205,370.05,-199,376.05,-199L471.98,-199C477.98,-199,483.98,-205,483.98,-211L483.98,-223C483.98,-229,477.98,-235,471.98,-235"/>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="424.01" y="-220" data-gn-el-type="text" style="white-space:pre"><tspan>Upload Service</tspan></text>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="424.01" y="-208" data-gn-el-type="text" style="white-space:pre"><tspan>(Handles PDF uploads)</tspan></text>
+    </g>
+    <g id="edge1" class="edge">
+      <path fill="none" stroke="#000000" d="M164.92,-109.98C220.11,-132.87,310.34,-170.28,368.18,-194.26"/>
+      <path fill="#000000" stroke="#000000" d="M366.61,-197.4L377.18,-198L369.29,-190.93L366.61,-197.4"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="276.24" y="-176.5" data-gn-el-type="text" style="white-space:pre"><tspan> Upload PDF</tspan></text>
+    </g>
+    <g id="node6" class="node">
+      <path fill="none" stroke="#000000" d="M490.04,-108L357.99,-108C351.99,-108,345.99,-102,345.99,-96L345.99,-84C345.99,-78,351.99,-72,357.99,-72L490.04,-72C496.04,-72,502.04,-78,502.04,-84L502.04,-96C502.04,-102,496.04,-108,490.04,-108"/>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="424.01" y="-93" data-gn-el-type="text" style="white-space:pre"><tspan>Chatbot API</tspan></text>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="424.01" y="-81" data-gn-el-type="text" style="white-space:pre"><tspan>(Receives questions from User)</tspan></text>
+    </g>
+    <g id="edge5" class="edge">
+      <path fill="none" stroke="#000000" d="M215.75,-90C253.92,-90,297.24,-90,334.37,-90"/>
+      <path fill="#000000" stroke="#000000" d="M334.17,-93.5L344.17,-90L334.17,-86.5L334.17,-93.5"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="276.24" y="-94.2" data-gn-el-type="text" style="white-space:pre"><tspan> Ask Questions</tspan></text>
+    </g>
+    <g id="node3" class="node">
+      <path fill="none" stroke="#000000" d="M809.02,-278L675.3,-278C669.3,-278,663.3,-272,663.3,-266L663.3,-254C663.3,-248,669.3,-242,675.3,-242L809.02,-242C815.02,-242,821.02,-248,821.02,-254L821.02,-266C821.02,-272,815.02,-278,809.02,-278"/>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="742.16" y="-263" data-gn-el-type="text" style="white-space:pre"><tspan>PDF Processor</tspan></text>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="742.16" y="-251" data-gn-el-type="text" style="white-space:pre"><tspan>(Extract text using PDF parsing)</tspan></text>
+    </g>
+    <g id="edge2" class="edge">
+      <path fill="none" stroke="#000000" d="M484.48,-225.09C531.57,-231.49,598.1,-240.54,651.63,-247.82"/>
+      <path fill="#000000" stroke="#000000" d="M650.96,-251.26L661.34,-249.14L651.9,-244.33L650.96,-251.26"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="584.27" y="-249.06" data-gn-el-type="text" style="white-space:pre"><tspan> Process PDF</tspan></text>
+    </g>
+    <g id="node4" class="node">
+      <path fill="none" stroke="#000000" d="M805.13,-193L679.2,-193C673.2,-193,667.2,-187,667.2,-181L667.2,-169C667.2,-163,673.2,-157,679.2,-157L805.13,-157C811.13,-157,817.13,-163,817.13,-169L817.13,-181C817.13,-187,811.13,-193,805.13,-193"/>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="742.16" y="-178" data-gn-el-type="text" style="white-space:pre"><tspan>Summarization Service</tspan></text>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="742.16" y="-166" data-gn-el-type="text" style="white-space:pre"><tspan>(Generates concise summary)</tspan></text>
+    </g>
+    <g id="edge3" class="edge">
+      <path fill="none" stroke="#000000" d="M742.16,-241.59C742.16,-230.79,742.16,-216.9,742.16,-204.6"/>
+      <path fill="#000000" stroke="#000000" d="M745.66,-204.96L742.16,-194.96L738.66,-204.96L745.66,-204.96"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="730.76" y="-213.3" data-gn-el-type="text" style="white-space:pre"><tspan> Extracted Text</tspan></text>
+    </g>
+    <g id="node5" class="node">
+      <path fill="none" stroke="#000000" d="M1156.39,-153C1156.39,-155.21,1121.79,-157,1079.2,-157C1036.6,-157,1002,-155.21,1002,-153L1002,-117C1002,-114.79,1036.6,-113,1079.2,-113C1121.79,-113,1156.39,-114.79,1156.39,-117L1156.39,-153"/>
+      <path fill="none" stroke="#000000" d="M1156.39,-153C1156.39,-150.79,1121.79,-149,1079.2,-149C1036.6,-149,1002,-150.79,1002,-153"/>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="1079.2" y="-138" data-gn-el-type="text" style="white-space:pre"><tspan>Document &amp; Summary Storage</tspan></text>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="1079.2" y="-126" data-gn-el-type="text" style="white-space:pre"><tspan>(Database or Blob Storage)</tspan></text>
+    </g>
+    <g id="edge4" class="edge">
+      <path fill="none" stroke="#000000" d="M817.43,-170.1C865.15,-166.49,928.4,-160.83,984,-153C986.17,-152.7,988.36,-152.37,990.56,-152.04"/>
+      <path fill="#000000" stroke="#000000" d="M990.89,-155.53L1000.21,-150.5L989.78,-148.62L990.89,-155.53"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="917.9" y="-171.42" data-gn-el-type="text" style="white-space:pre"><tspan> Save Summary &amp; Text</tspan></text>
+    </g>
+    <g id="node7" class="node">
+      <path fill="none" stroke="#000000" d="M821.8,-108L662.52,-108C656.52,-108,650.52,-102,650.52,-96L650.52,-84C650.52,-78,656.52,-72,662.52,-72L821.8,-72C827.8,-72,833.8,-78,833.8,-84L833.8,-96C833.8,-102,827.8,-108,821.8,-108"/>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="742.16" y="-93" data-gn-el-type="text" style="white-space:pre"><tspan>NLP / QA Engine</tspan></text>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="742.16" y="-81" data-gn-el-type="text" style="white-space:pre"><tspan>(Process questions, retrieve answers)</tspan></text>
+    </g>
+    <g id="edge8" class="edge">
+      <path fill="none" stroke="#000000" d="M1001.69,-129.71C957.7,-126.13,901.47,-120.65,851.8,-113C846.9,-112.25,841.89,-111.41,836.83,-110.52"/>
+      <path fill="#000000" stroke="#000000" d="M837.69,-107.12L827.22,-108.76L836.43,-114L837.69,-107.12"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="917.9" y="-132.1" data-gn-el-type="text" style="white-space:pre"><tspan> Retrieve Relevant Info</tspan></text>
+    </g>
+    <g id="edge6" class="edge">
+      <path fill="none" stroke="#000000" d="M502.35,-90C543.38,-90,594.34,-90,638.63,-90"/>
+      <path fill="#000000" stroke="#000000" d="M638.52,-93.5L648.52,-90L638.52,-86.5L638.52,-93.5"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="584.27" y="-94.2" data-gn-el-type="text" style="white-space:pre"><tspan> Send Question</tspan></text>
+    </g>
+    <g id="edge7" class="edge">
+      <path fill="none" stroke="#000000" d="M834.14,-84.59C879.61,-83.84,935.2,-85.89,984,-96.2C997.12,-98.97,1010.72,-103.5,1023.38,-108.51"/>
+      <path fill="#000000" stroke="#000000" d="M1021.77,-111.63L1032.35,-112.22L1024.45,-105.16L1021.77,-111.63"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="917.9" y="-100.4" data-gn-el-type="text" style="white-space:pre"><tspan> Query Stored Data</tspan></text>
+    </g>
+    <g id="node8" class="node">
+      <path fill="none" stroke="#000000" d="M1139.67,-52L1018.73,-52C1012.73,-52,1006.73,-46,1006.73,-40L1006.73,-28C1006.73,-22,1012.73,-16,1018.73,-16L1139.67,-16C1145.67,-16,1151.67,-22,1151.67,-28L1151.67,-40C1151.67,-46,1145.67,-52,1139.67,-52"/>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="1079.2" y="-37" data-gn-el-type="text" style="white-space:pre"><tspan>Response Service</tspan></text>
+      <text text-anchor="middle" font-family="Helvetica,sans-Serif" font-size="10" xml:space="preserve" x="1079.2" y="-25" data-gn-el-type="text" style="white-space:pre"><tspan>(Sends answer back to User)</tspan></text>
+    </g>
+    <g id="edge9" class="edge">
+      <path fill="none" stroke="#000000" d="M813.04,-71.52C825.88,-68.48,839.2,-65.56,851.8,-63.2C898.92,-54.38,952.04,-47.38,994.99,-42.44"/>
+      <path fill="#000000" stroke="#000000" d="M995.2,-45.94L1004.74,-41.34L994.41,-38.99L995.2,-45.94"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="917.9" y="-67.4" data-gn-el-type="text" style="white-space:pre"><tspan> Generated Answer</tspan></text>
+    </g>
+    <g id="edge10" class="edge">
+      <path fill="none" stroke="#000000" d="M1006.4,-32.89C872.68,-31.63,576.57,-32.58,329.02,-60C290.04,-64.32,247.19,-70.16,210.26,-75.54"/>
+      <path fill="#000000" stroke="#000000" d="M209.88,-72.06L200.5,-76.98L210.9,-78.99L209.88,-72.06"/>
+      <text text-anchor="middle" font-family="Times,serif" font-size="14" xml:space="preserve" x="584.27" y="-46.96" data-gn-el-type="text" style="white-space:pre"><tspan> Deliver Answer</tspan></text>
+    </g>
+  </g>
+  <g transform="translate(-4.1905, 0.0636)">
+    <use opacity="0.8584" transform="translate(712.2714, 130.3187)scale(0.587, 0.587)translate(-742.6599, 212.6565)" href="#_px_svg_2j69ftpr"/>
+  </g>
+</svg>
